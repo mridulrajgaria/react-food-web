@@ -1,11 +1,8 @@
-import {useContext} from 'react'
-import {StoreContext} from '../../context/StoreContext'
+import React from 'react'
 
 const Cart = () => {
   return (
-    <div className='cart'>
-      const{cartItems,food_list}
-    </div>
+    <div className='cart'></div>
   )
 }
 
